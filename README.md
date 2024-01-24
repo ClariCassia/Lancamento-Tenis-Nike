@@ -29,7 +29,7 @@ Com a conclusão do meu primeiro projeto em Tailwind CSS, percebi a eficiência 
 
 ## Acesso a página
 
-Para ver o projeto pronto [clique aqui ](https://claricassia.github.io/Landing-Page-Uber-TailwindCss/)
+Para ver o projeto pronto [clique aqui ](https://clari-cassia-projetcs-lancamento-tenis-nike.vercel.app/)
 
 
 
