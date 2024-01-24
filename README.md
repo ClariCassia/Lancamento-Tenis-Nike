@@ -4,17 +4,15 @@ Meu primeiro projeto em Tailwind CSS resultou em uma página de apresentação i
 
 ## Layout desktop    
 
-<br>
-
- <img src="src/images/desktop.gif.gif" alt="gif tela desktop">
+<br> 
+ <img src="src/image/nike-desktop.gif" alt="gif tela desktop">
 <br>
 <br>
 
 ## Layout Mobile    
 
 <br>
-
- <img src="src/images/mobile.gif.gif" alt="gif tela mobile">
+ <img src="src/image/nike-mobile.gif" alt="gif tela mobile">
 <br>
 <br>
 
